@@ -1,0 +1,11 @@
+# Unreal Engine pak ve büyük dosyalar (Releases üzerinden dağıtılır)
+*.pak
+*.zip
+Releases/
+
+# Sistem ve geçici dosyalar
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
