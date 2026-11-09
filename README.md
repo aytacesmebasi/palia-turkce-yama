@@ -68,8 +68,9 @@ Kurulum oldukça basittir ve yalnızca birkaç saniye sürer:
    C:\Program Files (x86)\Steam\steamapps\common\Palia\Palia\Content\Paks\
    ```
    *(Steam Kütüphanesi üzerinden: Oyuna sağ tıklayın ➔ Yönet ➔ Yerel dosyalara göz at ➔ `Palia` ➔ `Content` ➔ `Paks`)*
-3. Kopyaladığınız `pakchunk0-WindowsClient.pak` dosyasını bu klasöre yapıştırın (Hedefteki dosyayı değiştirin).
-4. Oyunu Steam üzerinden başlatın!
+3. **Yedekleme Adımı (Önerilir):** İleride yamayı kaldırmak veya orijinal dosyaya dönmek isterseniz, klasördeki mevcut orijinal `pakchunk0-WindowsClient.pak` dosyasının adını **`pakchunk0-WindowsClient.pak.bak`** olarak değiştirin.
+4. İndirdiğiniz Türkçe `pakchunk0-WindowsClient.pak` dosyasını bu klasöre yapıştırın.
+5. Oyunu Steam üzerinden başlatın!
 
 ---
 
@@ -80,17 +81,20 @@ Kurulum oldukça basittir ve yalnızca birkaç saniye sürer:
    C:\Program Files\Epic Games\Palia\Palia\Content\Paks\
    ```
    *(Farklı bir diske kurduysanız: `[Sürücü]:\Epic Games\Palia\Palia\Content\Paks\`)*
-3. Kopyaladığınız `pakchunk0-WindowsClient.pak` dosyasını bu klasöre yapıştırın (Hedefteki dosyayı değiştirin).
-4. Oyunu Epic Games Launcher üzerinden başlatın!
+3. **Yedekleme Adımı (Önerilir):** İleride yamayı kaldırmak veya orijinal dosyaya dönmek isterseniz, klasördeki mevcut orijinal `pakchunk0-WindowsClient.pak` dosyasının adını **`pakchunk0-WindowsClient.pak.bak`** olarak değiştirin.
+4. İndirdiğiniz Türkçe `pakchunk0-WindowsClient.pak` dosyasını bu klasöre yapıştırın.
+5. Oyunu Epic Games Launcher üzerinden başlatın!
 
 ---
 
 ## 🔄 Yamayı Kaldırma (Eski Hale Döndürme)
 
-Yamayı dilediğiniz zaman kaldırmak için:
-* **Steam:** Kütüphanenizde Palia'ya sağ tıklayın ➔ `Özellikler` ➔ `Yüklü Dosyalar` ➔ `Oyun dosyalarının bütünlüğünü doğrula` seçeneğine tıklayın.
-* **Epic Games:** Kütüphanenizde Palia'nın yanındaki üç noktaya (`...`) tıklayın ➔ `Yönet` ➔ `Doğrula` butonuna tıklayın.
-* Launcher orijinal İngilizce pak dosyasını birkaç saniyede otomatik olarak indirecektir.
+Yamayı dilediğiniz zaman kaldırmak için 2 yöntem bulunur:
+* **1. Yöntem (Yedekten Dönme):** Kurulum sırasında orijinal dosyanızı `pakchunk0-WindowsClient.pak.bak` olarak adlandırdıysanız; Türkçe `pakchunk0-WindowsClient.pak` dosyasını silin ve `.bak` dosyasının adını tekrar `pakchunk0-WindowsClient.pak` yapın.
+* **2. Yöntem (Doğrulama):**
+  * **Steam:** Kütüphanenizde Palia'ya sağ tıklayın ➔ `Özellikler` ➔ `Yüklü Dosyalar` ➔ `Oyun dosyalarının bütünlüğünü doğrula` seçeneğine tıklayın.
+  * **Epic Games:** Kütüphanenizde Palia'nın yanındaki üç noktaya (`...`) tıklayın ➔ `Yönet` ➔ `Doğrula` butonuna tıklayın.
+  Launcher orijinal İngilizce pak dosyasını birkaç saniyede otomatik olarak indirecektir.
 
 ---
 
