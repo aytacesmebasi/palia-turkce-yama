@@ -116,5 +116,4 @@ C: Bu yama yalnızca yerel dil/metin varlıklarını değiştiren bir yerelleşt
 
 ## 👏 Teşekkür & Krediler
 * Çeviri geliştirme ve yapılandırma: **Google Antigravity**
-* Topluluk ve kaynak referansı: [SinnerClown Çeviri](https://sinnerclownceviri.net/konu/palia-tuerkce-yama.7530/)
 
